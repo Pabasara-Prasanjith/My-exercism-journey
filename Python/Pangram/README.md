@@ -1,0 +1,2 @@
+- Solution 1: dictionary tracking (clear but longer)
+- Solution 2: string replace (shorter but creates new strings)
