@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Python junk
+__pycache__/
+*.py[cod]
+.venv/
+
+# C and C++ junk (compiled files)
+*.o
+*.out
+*.exe
+*.obj
+
+# System files
+.DS_Store
+Thumbs.db
