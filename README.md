@@ -6,7 +6,7 @@ This repository stores my solutions to [Exercism](https://exercism.org) challeng
 
 | Language | Status | Exercises Completed |
 | :--- | :--- | :--- |
-| **Python** | 🟡 In Progress | 15/146 |
+| **Python** | 🟡 In Progress | 16/146 |
 | **C** | ⚪ Planned | 0 |
 | **C++** | ⚪ Planned | 0 |
 
